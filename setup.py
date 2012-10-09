@@ -36,7 +36,7 @@ setup(name='policy.cocof',
       install_requires=[
           'setuptools',
           # -*- Extra requirements: -*-
-	  'collective.ckeditor',
+          'collective.ckeditor',
           'collective.easyslider',
           'Solgema.fullcalendar',
           'collective.collage.maps',
@@ -53,6 +53,4 @@ setup(name='policy.cocof',
       [z3c.autoinclude.plugin]
       target = plone
       """,
-      setup_requires=["PasteScript"],
-      paster_plugins=["templer.localcommands"],
       )
