@@ -17,6 +17,7 @@
   <!-- -*- extra stuff goes here -*- -->
   <include package="collective.ckeditor" />
   <include package="collective.easyslider" />
+  <include package="collective.delegatesiteadmin" />
   <include package="Solgema.fullcalendar" />
   <include package="collective.collage.maps" />
   <include package="collective.collage.easyslider" />

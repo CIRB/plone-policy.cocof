@@ -38,6 +38,7 @@ setup(name='policy.cocof',
           # -*- Extra requirements: -*-
           'collective.ckeditor',
           'collective.easyslider',
+          'collective.delegatesiteadmin',
           'Solgema.fullcalendar',
           'collective.collage.maps',
           'collective.collage.easyslider',
