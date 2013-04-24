@@ -4,7 +4,7 @@ Changelog
 1.0.5 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- collective.delegatesiteadmin.
 
 
 1.0.4 (2012-10-09)
